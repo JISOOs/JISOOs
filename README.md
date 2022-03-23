@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#B897FF&height=300&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=EEE8AA&height=100&section=header&text=Welcome!&fontSize=50)
 
-🌱 병아리 개발자 🌱
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JISOOs)](https://github.com/JISOOs/github-readme-stats)
